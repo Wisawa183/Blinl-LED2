@@ -1,0 +1,7 @@
+targets:
+  - esp32
+description: component example of esp32
+dependencies:
+  LED_class:
+    git: https://github.com/Wisawa183/Week02-Homework.git //เลือก repo mี่ต้องการเรียกใช้ component
+    path: components/LED //เลือก path ของ component
